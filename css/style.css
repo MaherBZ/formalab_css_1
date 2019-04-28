@@ -2,7 +2,7 @@
 /* *{
     color : red;
 } */
-.parableu
+/*.parableu
 {
     color:blue;
 }
@@ -12,4 +12,12 @@
 }
 h1, h2{ 
     color:#FF6600;
+}*/
+.bleu
+{
+    color:blue;
+}
+p.vert
+{
+    color:green;
 }
