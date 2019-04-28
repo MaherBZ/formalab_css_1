@@ -13,11 +13,17 @@
 h1, h2{ 
     color:#FF6600;
 }*/
-.bleu
+/*.bleu
 {
     color:blue;
 }
 p.vert
 {
     color:green;
+}*/
+.vt {
+    color:green;
+}
+.bord{
+    border: 1px solid green;
 }
