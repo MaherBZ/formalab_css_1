@@ -21,9 +21,23 @@ p.vert
 {
     color:green;
 }*/
-.vt {
+.vt
+{
     color:green;
 }
-.bord{
+.bord
+{
     border: 1px solid green;
+}
+a
+{
+    color:red; text-decoration: none;
+}
+a:hover
+{
+    color:green; text-decoration: underline;
+}
+a:visited
+{
+    color: grey;
 }
